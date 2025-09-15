@@ -61,7 +61,7 @@ Optimized candidate retrieval systems balancing multiple business objectives in 
 
 - 🌐 [Website](https://sites.google.com/view/srijansaket)
 - 💼 [LinkedIn](linkedin.com/in/srijansaket/)
-- 🐦 [Twitter](#) <!-- Add your Twitter/X handle -->
+- 🐦 [Twitter](https://x.com/srijanskt2)
 - 📧 [Email](#) <!-- srijanskt@gmail.com -->
 
 ## 📈 GitHub Stats
